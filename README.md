@@ -18,7 +18,12 @@ SyntaX_for_AI is the computational brain of the **SyntaX** ecosystem. It bridges
 Ensure you have the required stack installed (You can also use the requirements.txt document.):
 ```bash
 pip install numpy pandas tensorflow sklearn mesa pygad tqdm
+
+```
+
+```bash
 pip install -r SyntaX/AI/requirements.txt
+
 ```
 
 ---
